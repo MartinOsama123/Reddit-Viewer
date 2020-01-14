@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Reddit Organizer</string>
+    <string name="login">Get my subreddits</string>
+    <string name="you_don_t_have_any_subreddits">You don\'t have any subreddits</string>
+    <string name="No_Internet">No Internet Connection</string>
+    <string name="appwidget_text">Subreddits</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_subreddits">No Subreddits yet.</string>
+    <string name="best_comments">Best Comments</string>
+    <string name="download_image">Download Image</string>
+    <string name="posted_by">Posted by %1s %2s</string>
+    <string name="subreddit">r/%1s</string>
+    <string name="success">File Downloaded</string>
+    <string name="downloading">Downloading</string>
+    <string name="image">Image for r/%1s</string>
+    <string name="just_now">just now</string>
+    <string name="minute_ago">a minute ago</string>
+    <string name="minutes_ago">%1d minutes ago</string>
+    <string name="hour_ago">an hour ago</string>
+    <string name="hours_ago">%1d hours ago</string>
+    <string name="yesterday">yesterday</string>
+    <string name="days_ago">%1d days ago</string>
+</resources>
